@@ -1,0 +1,20 @@
+.mid-p {
+    font-size: 20px;
+}
+
+.small-p {
+    font-size: 16px;
+}
+
+.h1 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.looplink {
+    font-size: 5px;
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
